@@ -1,7 +1,7 @@
 
 CC = gcc
 CFLAGS = -Wall -g
-TARGET = day2
+TARGET = day1
 
 all: $(TARGET)
 
