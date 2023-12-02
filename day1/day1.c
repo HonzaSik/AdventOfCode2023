@@ -49,6 +49,7 @@ int main(int argc, char *argv[]) {
     }
 
     for (int i = 0; i < row; i++) {
+        printf("%s\n", table[i]);
         sum += atoi(table[i]);
     }
 
